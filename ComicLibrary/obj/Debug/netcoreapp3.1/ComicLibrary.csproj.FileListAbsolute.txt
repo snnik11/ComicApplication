@@ -1,0 +1,5 @@
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\netcoreapp3.1\ComicLibrary.csproj.AssemblyReference.cache
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\netcoreapp3.1\ComicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\netcoreapp3.1\ComicLibrary.AssemblyInfoInputs.cache
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\netcoreapp3.1\ComicLibrary.AssemblyInfo.cs
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\netcoreapp3.1\ComicLibrary.csproj.CoreCompileInputs.cache

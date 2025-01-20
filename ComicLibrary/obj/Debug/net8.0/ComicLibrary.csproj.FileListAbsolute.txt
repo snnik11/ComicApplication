@@ -1,0 +1,12 @@
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\bin\Debug\net8.0\ComicLibrary.deps.json
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\bin\Debug\net8.0\ComicLibrary.dll
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\bin\Debug\net8.0\ComicLibrary.pdb
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.csproj.AssemblyReference.cache
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.AssemblyInfoInputs.cache
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.AssemblyInfo.cs
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.csproj.CoreCompileInputs.cache
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.dll
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\refint\ComicLibrary.dll
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ComicLibrary.pdb
+C:\Nikita\LearnCode\PracticeSesh\ComicLibrary\ComicLibrary\obj\Debug\net8.0\ref\ComicLibrary.dll

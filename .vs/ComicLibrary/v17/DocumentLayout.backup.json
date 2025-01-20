@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D3A001-A06D-437F-9CC5-6D4490185059}|WpfApp\\WpfApp.csproj|c:\\nikita\\learncode\\practicesesh\\comiclibrary\\wpfapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B0D3A001-A06D-437F-9CC5-6D4490185059}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D3A001-A06D-437F-9CC5-6D4490185059}|WpfApp\\WpfApp.csproj|c:\\nikita\\learncode\\practicesesh\\comiclibrary\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0D3A001-A06D-437F-9CC5-6D4490185059}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|c:\\nikita\\learncode\\practicesesh\\comiclibrary\\comiclibrary\\comicmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|solutionrelative:comiclibrary\\comicmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|c:\\nikita\\learncode\\practicesesh\\comiclibrary\\comiclibrary\\comicprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|solutionrelative:comiclibrary\\comicprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|c:\\nikita\\learncode\\practicesesh\\comiclibrary\\comiclibrary\\comiclibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|solutionrelative:comiclibrary\\comiclibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|c:\\nikita\\learncode\\practicesesh\\comiclibrary\\comiclibrary\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91023CFB-2357-47F2-A150-23B6C8E094E2}|ComicLibrary\\ComicLibrary.csproj|solutionrelative:comiclibrary\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:57:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T14:52:55.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComicLibrary",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ComicLibrary.csproj",
+              "RelativeDocumentMoniker": "ComicLibrary\\ComicLibrary.csproj",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ComicLibrary.csproj",
+              "RelativeToolTip": "ComicLibrary\\ComicLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T14:28:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComicModel.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ComicModel.cs",
+              "RelativeDocumentMoniker": "ComicLibrary\\ComicModel.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ComicModel.cs",
+              "RelativeToolTip": "ComicLibrary\\ComicModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:13:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComicProcessor.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ComicProcessor.cs",
+              "RelativeDocumentMoniker": "ComicLibrary\\ComicProcessor.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ComicProcessor.cs",
+              "RelativeToolTip": "ComicLibrary\\ComicProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:09:29.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "ComicLibrary\\ApiHelper.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\ComicLibrary\\ComicLibrary\\ApiHelper.cs",
+              "RelativeToolTip": "ComicLibrary\\ApiHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:54:53.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
